@@ -1,3 +1,9 @@
+> ⚠️ **Warning** ⚠️
+>
+> This is a fork of [thebritican/elm-autocomplete](https://github.com/thebritican/elm-autocomplete) so that we can upgrade our codebase for 0.19. We don't intend to do any major development on it.
+>
+> Fork build status: [![Build Status](https://travis-ci.org/NoRedInk/elm-autocomplete.svg?branch=master)](https://travis-ci.org/NoRedInk/elm-autocomplete)
+
 # Elm Autocomplete
 
 > Per discussion in [#37](https://github.com/thebritican/elm-autocomplete/issues/37), this library will be moved into `elm-menu` (Since it's really just a menu currently). The `AccessibleExample` (with a simple API and included `input` field) will be the _mostly_ drop-in solution for this library. If you want to build more complicated features (like mentions), use `elm-menu` after the work is done porting it! Meanwhile, you'll have to copy/paste the example... obviously not ideal! The motivation here: no one wants to have 300 lines of boilerplate for the common case of a typical form autocomplete!
