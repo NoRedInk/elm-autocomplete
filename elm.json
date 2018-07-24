@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "version": "5.0.0",
     "exposed-modules": [
-        "AutoComplete"
+        "Autocomplete"
     ],
     "dependencies": {
         "elm/browser": "1.0.0 <= v < 2.0.0",
