@@ -1,8 +1,9 @@
 > ⚠️ **Warning** ⚠️
 >
-> This is a fork of [thebritican/elm-autocomplete](https://github.com/thebritican/elm-autocomplete) so that we can upgrade our codebase for 0.19. We don't intend to do any major development on it.
+> This is a fork of [thebritican/elm-autocomplete](https://github.com/thebritican/elm-autocomplete) so that we can upgrade our codebase for 0.19. We don't intend to do any major
+> development on it.
 >
-> Fork build status: [![Build Status](https://travis-ci.org/NoRedInk/elm-autocomplete.svg?branch=master)](https://travis-ci.org/NoRedInk/elm-autocomplete)
+> Original README below:
 
 # Elm Autocomplete
 
